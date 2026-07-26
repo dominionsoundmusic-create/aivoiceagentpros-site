@@ -1,0 +1,30 @@
+# retired URL structures -> current service pages
+
+/ai-voice-agent/*  /ai-receptionist/:splat  301
+/ai-voice-agent/  /ai-receptionist/  301
+/ai-phone-answering/*  /ai-receptionist/:splat  301
+/ai-phone-answering/  /ai-receptionist/  301
+/ai-customer-service/*  /ai-receptionist/:splat  301
+/ai-customer-service/  /ai-receptionist/  301
+/ai-sales-agent/*  /ai-receptionist/:splat  301
+/ai-sales-agent/  /ai-receptionist/  301
+/ai-virtual-receptionist/*  /ai-receptionist/:splat  301
+/ai-virtual-receptionist/  /ai-receptionist/  301
+/ai-call-handling/*  /ai-receptionist/:splat  301
+/ai-call-handling/  /ai-receptionist/  301
+/ai-inbound-calls/*  /ai-receptionist/:splat  301
+/ai-inbound-calls/  /ai-receptionist/  301
+/ai-phone-agent/*  /ai-receptionist/:splat  301
+/ai-phone-agent/  /ai-receptionist/  301
+/ai-phone-system/*  /ai-receptionist/:splat  301
+/ai-phone-system/  /ai-receptionist/  301
+/ai-voice-assistant/*  /ai-receptionist/:splat  301
+/ai-voice-assistant/  /ai-receptionist/  301
+/ai-voice-bot/*  /ai-receptionist/:splat  301
+/ai-voice-bot/  /ai-receptionist/  301
+/ai-business-calls/*  /ai-receptionist/:splat  301
+/ai-business-calls/  /ai-receptionist/  301
+/automated-phone-calls/*  /ai-receptionist/:splat  301
+/automated-phone-calls/  /ai-receptionist/  301
+/conversational-ai/*  /ai-receptionist/:splat  301
+/conversational-ai/  /ai-receptionist/  301
