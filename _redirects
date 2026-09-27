@@ -1,3 +1,33 @@
+# Sep 26 2026 - templated auto-blog posts retired; each old post points to the closest real page.
+/blog/how-to-set-up-an-ai-receptionist-for-your-business-1786278396137.html  /ai-receptionist/  301
+/blog/how-to-set-up-an-ai-receptionist-for-your-business-1786278396137  /ai-receptionist/  301
+/blog/how-local-businesses-use-ai-to-book-more-appointments-1786106328016.html  /ai-answering-service/  301
+/blog/how-local-businesses-use-ai-to-book-more-appointments-1786106328016  /ai-answering-service/  301
+/blog/ai-voice-agents-for-local-businesses-1786365764840.html  /ai-answering-service/  301
+/blog/ai-voice-agents-for-local-businesses-1786365764840  /ai-answering-service/  301
+/blog/how-local-businesses-use-ai-to-book-more-appointments-1785937254749.html  /ai-answering-service/  301
+/blog/how-local-businesses-use-ai-to-book-more-appointments-1785937254749  /ai-answering-service/  301
+/blog/how-local-businesses-use-ai-to-book-more-appointments-1784554013491.html  /ai-answering-service/  301
+/blog/how-local-businesses-use-ai-to-book-more-appointments-1784554013491  /ai-answering-service/  301
+/blog/never-miss-a-customer-call-again-with-ai-voice-agents-1786451988613.html  /ai-call-center/  301
+/blog/never-miss-a-customer-call-again-with-ai-voice-agents-1786451988613  /ai-call-center/  301
+/blog/after-hours-call-handling-with-ai-voice-agents-1786970174896.html  /ai-call-center/  301
+/blog/after-hours-call-handling-with-ai-voice-agents-1786970174896  /ai-call-center/  301
+/blog/why-customers-prefer-calling-over-texting-for-appointments-1785851120014.html  /  301
+/blog/why-customers-prefer-calling-over-texting-for-appointments-1785851120014  /  301
+/blog/how-local-businesses-use-ai-to-book-more-appointments-1784554394498.html  /ai-answering-service/  301
+/blog/how-local-businesses-use-ai-to-book-more-appointments-1784554394498  /ai-answering-service/  301
+/blog/how-voice-ai-works-and-why-it-sounds-so-real-1785707180096.html  /ai-answering-service/  301
+/blog/how-voice-ai-works-and-why-it-sounds-so-real-1785707180096  /ai-answering-service/  301
+/blog/how-ai-receptionists-are-replacing-answering-services-1786023583376.html  /ai-answering-service/  301
+/blog/how-ai-receptionists-are-replacing-answering-services-1786023583376  /ai-answering-service/  301
+/blog/ai-voice-agents-for-local-businesses-1786191871319.html  /ai-answering-service/  301
+/blog/ai-voice-agents-for-local-businesses-1786191871319  /ai-answering-service/  301
+/blog/the-true-cost-of-missed-calls-for-small-businesses-1785766447198.html  /ai-outbound-calls/  301
+/blog/the-true-cost-of-missed-calls-for-small-businesses-1785766447198  /ai-outbound-calls/  301
+/blog/*  /  301
+/blog  /  301
+
 # retired URL structures -> current service pages
 
 /ai-voice-agent/*  /ai-receptionist/  301
